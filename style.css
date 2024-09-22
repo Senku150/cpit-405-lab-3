@@ -1,0 +1,43 @@
+body{background-color: white;}
+
+.image-preview img{
+    border-top: 30px solid #85ceed;
+    border-right: 30px solid lightpink;
+    border-bottom: 30px solid lightgreen;
+    border-left: 30px solid #ffefd5;
+}
+.image-preview{
+    margin-top: 20%;
+    display: flex;
+    justify-content: center;
+
+}
+#header{
+    margin-top: 20%;
+}
+table{
+    border: 2px solid red;
+}
+
+table th{
+    border: 2px solid rgb(45, 151, 110);
+}
+#th1{
+    border: white;
+}
+table td{
+    border: 2px solid rgb(19, 19, 49);
+}
+
+.pink{
+    color: pink;
+}
+.blue:hover{
+    color: blue;
+}
+.red{
+    color:red;
+}
+.orange{
+    color:orange
+}
